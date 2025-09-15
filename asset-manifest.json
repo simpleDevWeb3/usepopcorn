@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/your-repo/static/css/main.185cef6d.css",
-    "main.js": "/your-repo/static/js/main.519b6fde.js",
-    "index.html": "/your-repo/index.html",
-    "main.185cef6d.css.map": "/your-repo/static/css/main.185cef6d.css.map",
-    "main.519b6fde.js.map": "/your-repo/static/js/main.519b6fde.js.map"
+    "main.css": "/usepopcorn/static/css/main.185cef6d.css",
+    "main.js": "/usepopcorn/static/js/main.519b6fde.js",
+    "index.html": "/usepopcorn/index.html",
+    "main.185cef6d.css.map": "/usepopcorn/static/css/main.185cef6d.css.map",
+    "main.519b6fde.js.map": "/usepopcorn/static/js/main.519b6fde.js.map"
   },
   "entrypoints": [
     "static/css/main.185cef6d.css",
